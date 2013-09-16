@@ -1,5 +1,6 @@
 --no-private
 --protected
+lib/vagrant-proxyconf/config/userinfo_mixin.rb
 lib/vagrant-proxyconf/config/key_mixin.rb
 lib/**/*.rb
 -
